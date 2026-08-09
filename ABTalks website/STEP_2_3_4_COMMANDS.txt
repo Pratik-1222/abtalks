@@ -1,0 +1,34 @@
+ABTalks — Combined Steps 2, 3 & 4
+
+If you already have the ABTalks Vite project:
+1. Keep package.json, package-lock.json, vite.config.js, index.html, etc.
+2. Replace your existing src folder with this package's src folder.
+3. Copy PROMPTS.md to the project root.
+4. Make sure React Router is installed:
+   npm install react-router-dom
+5. Start:
+   npm run dev
+
+If starting from scratch:
+1. Create/open a folder named abtalks-redesign.
+2. Run:
+   npm create vite@latest . -- --template react
+3. Run:
+   npm install
+4. Run:
+   npm install react-router-dom
+5. Copy the included src folder into the project.
+6. Copy PROMPTS.md into the project root.
+7. Run:
+   npm run dev
+
+Test:
+http://localhost:5173/
+http://localhost:5173/dashboard
+http://localhost:5173/day/12
+
+Step status:
+Step 2 = complete
+Step 3 = complete
+Step 4 = complete
+Step 5 = next: Challenge Day (/day/12)

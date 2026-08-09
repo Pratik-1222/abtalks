@@ -1,0 +1,23 @@
+ABTalks — Combined Steps 2, 3, 4 & 5
+
+If you already have the ABTalks Vite project:
+1. Keep package.json, package-lock.json, vite.config.js, index.html, etc.
+2. Replace your existing src folder with this package's src folder.
+3. Copy PROMPTS.md to the project root.
+4. Make sure React Router is installed:
+   npm install react-router-dom
+5. Run:
+   npm run dev
+
+Test:
+http://localhost:5173/
+http://localhost:5173/dashboard
+http://localhost:5173/day/12
+
+Step 2 = complete
+Step 3 = complete
+Step 4 = complete
+Step 5 = complete
+
+Next: Step 6 — polish, edge cases, navigation improvements,
+and final mobile/390px testing.
